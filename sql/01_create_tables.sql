@@ -1,10 +1,3 @@
--- ============================================================
--- Sistema de Streaming — DDL
--- Universidade Presbiteriana Mackenzie — 2026.01
--- Disciplina: Tópicos em Banco de Dados
--- Professor: Jamilson Bispo dos Santos
--- ============================================================
-
 CREATE DATABASE IF NOT EXISTS streaming
   DEFAULT CHARACTER SET latin1
   COLLATE latin1_swedish_ci;
