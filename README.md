@@ -141,7 +141,7 @@ python3 dashboard/dashboard.py
 
 | Nome | RA |
 |---|---|
-| Kauan Sarzi | 10427235 |
+| Guilherme Shinohara | 10439165 |
 
 ---
 
