@@ -1,0 +1,18 @@
+# Chaves SSH — NUNCA versionar!
+*.pem
+*.ppk
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# Imagens geradas localmente
+grafico_barras.png
+grafico_pizza.png
+
+# OS
+.DS_Store
+Thumbs.db
